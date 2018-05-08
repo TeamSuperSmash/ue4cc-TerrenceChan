@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Performing 3 actions (4 in parallel)
+  MyActor.cpp
+  [2/3] Link UE4Editor-Test_Project-9027.dll
+  [3/3] Link UE4Editor-Test_Project-9027.lib
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Test_Project-9027.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Test_Project-9027.exp
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Test_Project-9027.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Test_Project-9027.suppressed.exp
+  Deploying Test_ProjectEditor Win64 Development...
+  Total build time: 3.21 seconds (Local executor: 1.62 seconds)

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Test_Project.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{2E07A025-1CB9-45F4-90A0-7E771B5B3B81}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Test_Project.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Test_ProjectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{704EF0AE-E7C3-4158-BE11-4498BE77B15F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Test_Project">
+			<UniqueIdentifier>{FB09A86A-E8B2-4907-9DDC-B7DC5FCF5227}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Test_Project\MyActor.cpp">
+			<Filter>Source\Test_Project</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Test_Project\MyActor.h">
+			<Filter>Source\Test_Project</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Test_Project\Test_Project.Build.cs">
+			<Filter>Source\Test_Project</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Test_Project\Test_Project.cpp">
+			<Filter>Source\Test_Project</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Test_Project\Test_Project.h">
+			<Filter>Source\Test_Project</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Test_Project\Test_ProjectGameModeBase.cpp">
+			<Filter>Source\Test_Project</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Test_Project\Test_ProjectGameModeBase.h">
+			<Filter>Source\Test_Project</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

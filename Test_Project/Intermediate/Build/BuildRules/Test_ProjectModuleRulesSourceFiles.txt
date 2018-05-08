@@ -1,0 +1,3 @@
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Source\Test_Project\Test_Project.Build.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Source\Test_Project.Target.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Source\Test_ProjectEditor.Target.cs
