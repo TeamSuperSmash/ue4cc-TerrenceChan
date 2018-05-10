@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Test_Project.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{2E07A025-1CB9-45F4-90A0-7E771B5B3B81}</UniqueIdentifier>
+			<UniqueIdentifier>{6338EEA4-3B80-4C11-8A77-43DA649B92F1}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Test_Project.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{704EF0AE-E7C3-4158-BE11-4498BE77B15F}</UniqueIdentifier>
+			<UniqueIdentifier>{45B0EFBD-327E-4DC3-973F-C166FE0FC121}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,8 +25,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Test_Project">
-			<UniqueIdentifier>{FB09A86A-E8B2-4907-9DDC-B7DC5FCF5227}</UniqueIdentifier>
+			<UniqueIdentifier>{5FE2B903-7E81-4D05-AC5F-4532C9DB74C2}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\Test_Project\CameraDirector.cpp">
+			<Filter>Source\Test_Project</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Test_Project\CameraDirector.h">
+			<Filter>Source\Test_Project</Filter>
+		</ClInclude >
 		<ClCompile Include="..\..\Source\Test_Project\MyActor.cpp">
 			<Filter>Source\Test_Project</Filter>
 		</ClCompile >

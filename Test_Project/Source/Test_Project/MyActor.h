@@ -23,7 +23,7 @@ public:
 	virtual void Tick(float DeltaTime) override;
 	
 	float runningTime;
-	float speedMultiplier = 10.0f;
+	float speedMultiplier = 1.0f;
 
-	float bobOffset = 300.0f;
+	float bobOffset = 100.0f;
 };

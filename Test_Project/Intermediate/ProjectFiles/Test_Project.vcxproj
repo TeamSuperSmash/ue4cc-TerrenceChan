@@ -413,6 +413,8 @@
 		<None Include="..\..\Config\DefaultEditor.ini" />
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
+		<ClCompile Include="..\..\Source\Test_Project\CameraDirector.cpp" />
+		<ClInclude Include="..\..\Source\Test_Project\CameraDirector.h" />
 		<ClCompile Include="..\..\Source\Test_Project\MyActor.cpp" />
 		<ClInclude Include="..\..\Source\Test_Project\MyActor.h" />
 		<None Include="..\..\Source\Test_Project\Test_Project.Build.cs" />

@@ -19,16 +19,16 @@ void AMyActor::BeginPlay()
 // Called every frame
 void AMyActor::Tick(float DeltaTime)
 {
-	Super::Tick(DeltaTime);
+    Super::Tick(DeltaTime);
 
-	FVector NewLocation = GetActorLocation();
+    FVector NewLocation = GetActorLocation();
 
-	runningTime += DeltaTime * speedMultiplier;
-	float deltaHeight = sinf(runningTime + DeltaTime) - sinf(runningTime);
+    runningTime += DeltaTime * speedMultiplier;
+    float deltaHeight = sinf(runningTime + DeltaTime) - sinf(runningTime);
 
-	NewLocation.Z += bobOffset * deltaHeight;
-	NewLocation.X += bobOffset * deltaHeight;
+    NewLocation.Z += bobOffset * deltaHeight;
+    //NewLocation.X += bobOffset * deltaHeight;
 
-	SetActorLocation(NewLocation);
+    SetActorLocation(NewLocation);
 }
 

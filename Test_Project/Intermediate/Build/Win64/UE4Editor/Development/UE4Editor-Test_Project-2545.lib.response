@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Test_Project-2545.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\CameraDirector.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\MyActor.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\Test_Project.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\Test_ProjectGameModeBase.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\CameraDirector.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\MyActor.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\Test_Project.init.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\Test_ProjectGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Test_Project\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\Test_Project\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Test_Project-2545.lib"
