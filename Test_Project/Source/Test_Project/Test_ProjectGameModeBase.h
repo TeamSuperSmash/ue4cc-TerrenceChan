@@ -12,9 +12,7 @@
 UCLASS()
 class TEST_PROJECT_API ATest_ProjectGameModeBase : public AGameModeBase
 {
-	GENERATED_BODY()
-	
-	
-	
-	
+    GENERATED_BODY()
+
+        virtual void StartPlay() override;	
 };
