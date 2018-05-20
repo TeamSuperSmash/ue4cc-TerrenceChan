@@ -1,0 +1,831 @@
+﻿Log file open, 05/20/18 19:00:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FPSProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-908404455) SRandInit(-908404455).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.628328
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.579s to configure plugins.
+LogModuleManager: Warning: Module file ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Binaries/Win64/UE4Editor-FPSProject-6959.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Warning: Incompatible or missing module: UE4Editor-FPSProject.dll
+Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject Development Win64 -project="C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/FPSProject.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for FPSProject (game project files are newer)
+@progress push 5%
+Parsing headers for FPSProjectEditor
+  Running UnrealHeaderTool "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\FPSProject.uproject" "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\FPSProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for FPSProjectEditor in 14.335535 seconds
+@progress pop
+Deleting old hot reload file: "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Binaries\Win64\UE4Editor-FPSProject-3055.dll".
+Deleting old hot reload file: "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Binaries\Win64\UE4Editor-FPSProject-3055.pdb".
+Performing 6 actions (4 in parallel)
+FPSProject.init.gen.cpp
+FPSProjectGameModeBase.cpp
+FPSProject.cpp
+FPSProjectGameModeBase.gen.cpp
+[5/6] Link UE4Editor-FPSProject.dll
+[6/6] Link UE4Editor-FPSProject.lib
+   Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject.exp
+   Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject.suppressed.exp
+Total build time: 481.02 seconds (Local executor: 387.52 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Binaries/Win64/UE4Editor-FPSProject.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Asus (192.168.0.10:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.018s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.20-11.08.55:334][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.20-11.08.55:334][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.20-11.08.55:434][  0]LogInit: Computer: ASUS
+[2018.05.20-11.08.55:434][  0]LogInit: User: User
+[2018.05.20-11.08.55:434][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.20-11.08.55:434][  0]LogInit: High frequency timer resolution =2.437498 MHz
+[2018.05.20-11.08.55:434][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.20-11.08.55:434][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.20-11.08.55:434][  0]LogMemory: Process Physical Memory: 277.34 MB used, 277.34 MB peak
+[2018.05.20-11.08.55:434][  0]LogMemory: Process Virtual Memory: 269.92 MB used, 269.92 MB peak
+[2018.05.20-11.08.55:434][  0]LogMemory: Physical Memory: 4247.35 MB used,  3829.67 MB free, 8077.02 MB total
+[2018.05.20-11.08.55:434][  0]LogMemory: Virtual Memory: 4828.15 MB used,  3829.67 MB free, 134217728.00 MB total
+[2018.05.20-11.08.57:221][  0]LogInit: Using OS detected language (en-US).
+[2018.05.20-11.08.57:221][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.20-11.08.57:556][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.20-11.08.58:593][  0]LogStreaming: Display: Took  1.371s to EndInitTextLocalization.
+[2018.05.20-11.08.58:593][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.20-11.08.59:496][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.20-11.08.59:496][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.20-11.09.01:838][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.20-11.09.01:907][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.05.20-11.09.01:907][  0]LogD3D11RHI:       4021/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.20-11.09.01:917][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.05.20-11.09.01:917][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.20-11.09.01:920][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.20-11.09.01:920][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.20-11.09.01:920][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.20-11.09.01:939][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.20-11.09.01:939][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.05.20-11.09.01:939][  0]LogWindows: EnumDisplayDevices:
+[2018.05.20-11.09.01:939][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.05.20-11.09.01:940][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.20-11.09.01:940][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.20-11.09.01:940][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.20-11.09.01:940][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.05.20-11.09.01:940][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.20-11.09.01:940][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.20-11.09.01:940][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.05.20-11.09.02:020][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.20-11.09.02:020][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.20-11.09.02:020][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.20-11.09.02:044][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.20-11.09.02:060][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Intermediate/Shaders/WorkingDirectory/1392/).
+[2018.05.20-11.09.02:061][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/0586B53C4B4826076AFE85A3BCF5B0FF/'.
+[2018.05.20-11.09.04:235][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.20-11.09.04:255][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.20-11.09.04:274][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.20-11.09.04:294][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.20-11.09.04:393][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.20-11.09.04:413][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.20-11.09.04:433][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.20-11.09.04:452][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.20-11.09.04:463][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.20-11.09.04:481][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.20-11.09.04:500][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.20-11.09.04:518][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.20-11.09.04:536][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.20-11.09.04:554][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.20-11.09.04:573][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.20-11.09.04:609][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.20-11.09.04:609][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.20-11.09.04:637][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.20-11.09.04:639][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.20-11.09.04:805][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.20-11.09.04:822][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.20-11.09.04:839][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.20-11.09.04:857][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.20-11.09.04:874][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.20-11.09.04:898][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.20-11.09.04:898][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.20-11.09.06:928][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.20-11.09.06:988][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.20-11.09.06:988][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.20-11.09.06:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.20-11.09.10:888][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.20-11.09.12:836][  0]LogDerivedDataCache: Loaded boot cache 1.71s 74MB C:/Users/User/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.20-11.09.12:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.20-11.09.12:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.20-11.09.12:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.20-11.09.12:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.20-11.09.12:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.20-11.09.13:019][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.20-11.09.13:065][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.20-11.09.13:065][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.20-11.09.13:065][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.20-11.09.13:081][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.20-11.09.13:082][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.20-11.09.13:239][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.20-11.09.13:240][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.20-11.09.22:205][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2018.05.20-11.09.22:861][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.20-11.09.25:266][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.20-11.09.25:297][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.20-11.09.25:297][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.20-11.09.25:297][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.20-11.09.25:297][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.20-11.09.25:297][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.20-11.09.25:544][  0]LogNetVersion: FPSProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1223245918)
+[2018.05.20-11.09.29:598][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.232595 seconds
+[2018.05.20-11.09.29:605][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.20-11.09.29:605][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.20-11.09.29:605][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.20-11.09.53:184][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.20-11.09.53:245][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.20-11.09.54:688][  0]SourceControl: Source control is disabled
+[2018.05.20-11.09.54:689][  0]SourceControl: Source control is disabled
+[2018.05.20-11.09.55:118][  0]SourceControl: Source control is disabled
+[2018.05.20-11.09.55:171][  0]SourceControl: Source control is disabled
+[2018.05.20-11.09.57:647][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.20-11.09.58:501][  0]LogOcInput: OculusInput pre-init called
+[2018.05.20-11.09.58:909][  0]LogEngine: Initializing Engine...
+[2018.05.20-11.09.58:929][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.20-11.09.58:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.20-11.09.58:931][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.20-11.10.00:014][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.20-11.10.00:186][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-11.10.00:305][  0]LogInit: FAudioDevice initialized.
+[2018.05.20-11.10.00:471][  0]LogDerivedDataCache: Saved boot cache 0.17s 74MB C:/Users/User/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.20-11.10.00:485][  0]LogInit: Texture streaming: Enabled
+[2018.05.20-11.10.00:739][  0]LogInit: Transaction tracking system initialized
+[2018.05.20-11.10.00:890][  0]BlueprintLog: New page: Editor Load
+[2018.05.20-11.10.03:207][  0]LocalizationService: Localization service is disabled
+[2018.05.20-11.10.03:947][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017bfd0e57e0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.20-11.10.03:951][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017bfd0e57e0, Size=88
+[2018.05.20-11.10.03:951][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017bfd0e57e0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.20-11.10.03:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017be08769d0, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.20-11.10.04:842][  0]LogConsoleResponse: Display: 
+[2018.05.20-11.10.08:202][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.20-11.10.08:202][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.20-11.10.08:202][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.20-11.10.08:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.20-11.10.08:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.20-11.10.09:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/' took 0.01s
+[2018.05.20-11.10.10:971][  0]SourceControl: Source control is disabled
+[2018.05.20-11.10.10:972][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Maps/FPSMaps.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.20-11.10.10:972][  0]LightingResults: New page: Lighting Build
+[2018.05.20-11.10.10:977][  0]MapCheck: New page: Map Check
+[2018.05.20-11.10.10:977][  0]LightingResults: New page: Lighting Build
+[2018.05.20-11.10.10:995][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017bfd0e57e0, Size=88
+[2018.05.20-11.10.11:579][  0]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-11.10.11:616][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.20-11.10.11:634][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.20-11.10.11:736][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.148ms to complete.
+[2018.05.20-11.10.11:736][  0]LogFileHelpers: Loading map 'FPSMaps' took 0.765
+[2018.05.20-11.10.12:145][  0]LogCollectionManager: Loaded 0 collections in 0.002614 seconds
+[2018.05.20-11.10.12:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/Collections/' took 0.01s
+[2018.05.20-11.10.12:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Developers/User/Collections/' took 0.01s
+[2018.05.20-11.10.12:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Collections/' took 0.01s
+[2018.05.20-11.10.12:191][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.20-11.10.12:205][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2453 classes and 560 folders.
+[2018.05.20-11.10.12:216][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.20-11.10.14:205][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.20-11.10.14:264][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.05.20-11.10.14:544][  0]LogSlate: Took 0.031065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.20-11.10.14:584][  0]LogSlate: Took 0.033017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.20-11.10.14:601][  0]LogSlate: Took 0.013991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.20-11.10.15:017][  0]LogRenderer: Reallocating scene render targets to support 1120x576 Format 9 NumSamples 1 (Frame:1).
+[2018.05.20-11.10.15:306][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.05.20-11.10.15:306][  0]LogLoad: (Engine Initialization) Total time: 602.79 seconds
+[2018.05.20-11.10.15:306][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.20-11.10.15:325][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.20-11.10.15:326][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.20-11.10.15:347][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.05.20-11.10.15:457][  1]LogAssetRegistry: Asset discovery search completed in 53.2766 seconds
+[2018.05.20-11.10.15:460][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.20-11.10.15:460][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2018.05.20-11.10.19:825][ 93]LogSlate: Took 0.220607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.20-11.16.36:862][627]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.20-11.16.36:880][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-11.16.36:881][627]PIE: New page: PIE session: FPSMaps (May 21, 2018, 3:16:36 AM)
+[2018.05.20-11.16.36:881][627]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-11.16.36:885][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004052s)
+[2018.05.20-11.16.36:886][627]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-11.16.36:887][627]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2018.05.20-11.16.36:887][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.005520s)
+[2018.05.20-11.16.36:905][627]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-11.16.36:937][627]LogInit: FAudioDevice initialized.
+[2018.05.20-11.16.36:992][627]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-11.16.36:995][627]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-19.16.36
+[2018.05.20-11.16.36:995][627]LogWorld: Bringing up level for play took: 0.000867
+[2018.05.20-11.16.37:002][627]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.05.20-11.16.37:003][627]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps 0.001
+[2018.05.20-11.20.35:988][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-11.20.39:559][937]LogSlate: Took 0.013937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.20-11.20.39:828][937]LogSlate: Took 0.059996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.20-11.21.10:450][535]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject Win64 Development -editorrecompile "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/FPSProject.uproject" -invalidatemakefilesonly
+[2018.05.20-11.21.12:190][535]Invalidating makefiles only in this run.
+[2018.05.20-11.21.12:766][535]Candidate modules for hot reload:
+[2018.05.20-11.21.12:766][535]  FPSProject
+[2018.05.20-11.21.12:767][535]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject -ModuleWithSuffix=FPSProject,8058 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/FPSProject.uproject" ]
+[2018.05.20-11.26.26:551][535]CompilerResultsLog: New page: Compilation - May 21, 2018, 3:26:26 AM
+[2018.05.20-11.26.26:551][535]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.20-11.26.26:551][535]CompilerResultsLog: Creating makefile for hot reloading FPSProject (no existing makefile)
+[2018.05.20-11.26.26:551][535]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.20-11.26.26:551][535]CompilerResultsLog: Parsing headers for FPSProjectEditor
+[2018.05.20-11.26.26:551][535]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\FPSProject.uproject" "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\FPSProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.20-11.26.26:551][535]CompilerResultsLog: Reflection code generated for FPSProjectEditor in 25.7360001 seconds
+[2018.05.20-11.26.26:552][535]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.20-11.26.26:552][535]CompilerResultsLog: FPSCharacter.gen.cpp
+[2018.05.20-11.26.26:552][535]CompilerResultsLog: FPSCharacter.cpp
+[2018.05.20-11.26.26:552][535]CompilerResultsLog: FPSProject.init.gen.cpp
+[2018.05.20-11.26.26:552][535]CompilerResultsLog: [4/5] Link UE4Editor-FPSProject-8058.dll
+[2018.05.20-11.26.26:552][535]CompilerResultsLog: [5/5] Link UE4Editor-FPSProject-8058.lib
+[2018.05.20-11.26.26:552][535]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-8058.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-8058.exp
+[2018.05.20-11.26.26:552][535]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-8058.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-8058.suppressed.exp
+[2018.05.20-11.26.26:552][535]CompilerResultsLog: Total build time: 313.14 seconds (Local executor: 230.58 seconds)
+[2018.05.20-11.26.26:692][535]LogMainFrame: MainFrame: Module compiling took 314.059 seconds
+[2018.05.20-11.26.27:281][535]LogClass: Could not find existing class FPSCharacter in package /Script/FPSProject for HotReload, assuming new class
+[2018.05.20-11.26.27:286][535]LogContentBrowser: Native class hierarchy updated for 'FPSProject' in 0.0012 seconds. Added 2 classes and 2 folders.
+[2018.05.20-11.26.27:288][535]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.20-11.26.27:878][535]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2455 classes and 562 folders.
+[2018.05.20-11.26.27:978][535]Display: HotReload took 315.6s.
+[2018.05.20-11.26.27:979][535]Warning: HotReload operation took 315.6s.
+[2018.05.20-11.26.31:391][535]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.20-11.26.32:246][535]LogHotReload: New module detected: UE4Editor-FPSProject-8058.dll
+[2018.05.20-11.26.35:081][536]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.20-11.26.35:127][536]LogContentBrowser: Native class hierarchy updated for 'FPSProject' in 0.0012 seconds. Added 2 classes and 2 folders.
+[2018.05.20-11.26.35:129][536]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.20-11.26.35:162][536]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2455 classes and 562 folders.
+[2018.05.20-11.26.35:166][536]Display: HotReload took  0.1s.
+[2018.05.20-11.37.45:552][792]LogHotReload: New module detected: UE4Editor-FPSProject-8081.dll
+[2018.05.20-11.37.47:906][800]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.20-11.37.48:050][800]LogContentBrowser: Native class hierarchy updated for 'FPSProject' in 0.0017 seconds. Added 2 classes and 2 folders.
+[2018.05.20-11.37.48:051][800]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.20-11.37.48:210][800]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2455 classes and 562 folders.
+[2018.05.20-11.37.48:214][800]Display: HotReload took  0.3s.
+[2018.05.20-11.42.26:175][782]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 116 classes and 0 folders.
+[2018.05.20-11.42.27:073][782]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017b9f0aa350, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.20-11.42.27:107][782]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017b9f0aa348, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.20-11.42.28:976][782]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.05.20-11.42.29:874][782]LogRenderer: Reallocating scene render targets to support 1140x684 Format 9 NumSamples 1 (Frame:1).
+[2018.05.20-11.42.38:905][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPSCharacter" FILE="../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset" SILENT=true
+[2018.05.20-11.42.39:051][880]LogSavePackage: Save=116.58ms
+[2018.05.20-11.42.39:051][880]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/BP_FPSCharacterFE29BAE045C48C69E85053B3A7C43609.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset'
+[2018.05.20-11.42.39:206][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset
+[2018.05.20-11.42.46:442][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.20-11.42.46:689][203]LogSlate: Window 'BP_FPSCharacter' being destroyed
+[2018.05.20-11.42.46:693][203]LogSlate: Window 'BP_FPSCharacter' being destroyed
+[2018.05.20-11.51.56:409][ 69]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FPSProject
+[2018.05.20-11.51.56:410][ 69]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-11.51.56:410][ 69]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.20-11.51.56:410][ 69]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-11.51.56:410][ 69]LogTemp: BranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.20-11.51.56:410][ 69]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.20-11.51.56:848][ 70]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.20-11.52.12:002][341]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.20-11.52.34:775][ 62]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-11.52.34:778][ 62]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-11.52.35:674][ 81]LogSavePackage: Save=34.81ms
+[2018.05.20-11.52.35:674][ 81]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/FPSMaps81AF3DBF4265E130F2B281B7DE32C643.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Maps/FPSMaps.umap'
+[2018.05.20-11.52.35:677][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Maps/FPSMaps.umap
+[2018.05.20-11.52.35:724][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FPSMaps_BuiltData" FILE="../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Maps/FPSMaps_BuiltData.uasset" SILENT=true
+[2018.05.20-11.52.35:852][ 81]LogSavePackage: Save=95.75ms
+[2018.05.20-11.52.35:852][ 81]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/FPSMaps_BuiltData57F947C949BABF942B128BA78B57D3A2.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Maps/FPSMaps_BuiltData.uasset'
+[2018.05.20-11.52.35:883][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Maps/FPSMaps_BuiltData.uasset
+[2018.05.20-11.52.36:896][142]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.20-11.52.36:934][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-11.52.36:935][142]PIE: New page: PIE session: FPSMaps (May 21, 2018, 3:52:36 AM)
+[2018.05.20-11.52.36:935][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-11.52.36:938][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003561s)
+[2018.05.20-11.52.36:939][142]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-11.52.36:940][142]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2018.05.20-11.52.36:940][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.005015s)
+[2018.05.20-11.52.36:993][142]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-11.52.37:025][142]LogInit: FAudioDevice initialized.
+[2018.05.20-11.52.37:058][142]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-11.52.37:060][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-19.52.37
+[2018.05.20-11.52.37:060][142]LogWorld: Bringing up level for play took: 0.000897
+[2018.05.20-11.52.37:158][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps 0.156
+[2018.05.20-11.53.11:250][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-11.53.12:016][631]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.20-11.53.12:034][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-11.53.12:034][631]PIE: New page: PIE session: FPSMaps (May 21, 2018, 3:53:12 AM)
+[2018.05.20-11.53.12:034][631]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-11.53.12:037][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002185s)
+[2018.05.20-11.53.12:037][631]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-11.53.12:038][631]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2018.05.20-11.53.12:038][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.003438s)
+[2018.05.20-11.53.12:067][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-11.53.12:095][631]LogInit: FAudioDevice initialized.
+[2018.05.20-11.53.12:129][631]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-11.53.12:131][631]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-19.53.12
+[2018.05.20-11.53.12:131][631]LogWorld: Bringing up level for play took: 0.000730
+[2018.05.20-11.53.12:133][631]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps -0.87
+[2018.05.20-11.53.16:747][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-11.53.17:859][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-11.53.17:859][966]PIE: New page: SIE session: FPSMaps (May 21, 2018, 3:53:17 AM)
+[2018.05.20-11.53.17:859][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-11.53.17:862][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002145s)
+[2018.05.20-11.53.17:862][966]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-11.53.17:862][966]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.05.20-11.53.17:862][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.003118s)
+[2018.05.20-11.53.17:891][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-11.53.17:919][966]LogInit: FAudioDevice initialized.
+[2018.05.20-11.53.17:919][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-11.53.17:951][966]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-11.53.17:952][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-19.53.17
+[2018.05.20-11.53.17:952][966]LogWorld: Bringing up level for play took: 0.000634
+[2018.05.20-11.53.17:987][966]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps 0.985
+[2018.05.20-11.53.20:767][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.20-11.53.22:737][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-11.53.22:737][227]PIE: New page: PIE session: FPSMaps (May 21, 2018, 3:53:22 AM)
+[2018.05.20-11.53.22:737][227]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-11.53.22:739][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002091s)
+[2018.05.20-11.53.22:740][227]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-11.53.22:741][227]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2018.05.20-11.53.22:741][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.003933s)
+[2018.05.20-11.53.22:771][227]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-11.53.22:798][227]LogInit: FAudioDevice initialized.
+[2018.05.20-11.53.22:832][227]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-11.53.22:834][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-19.53.22
+[2018.05.20-11.53.22:834][227]LogWorld: Bringing up level for play took: 0.000679
+[2018.05.20-11.53.22:835][227]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps -0.168
+[2018.05.20-11.56.00:178][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-11.57.04:342][387]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.20-11.57.05:333][388]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FPSProject
+[2018.05.20-11.57.05:333][388]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-11.57.05:333][388]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.20-11.57.05:333][388]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-11.57.05:333][388]LogTemp: BranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.20-11.57.05:477][389]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.20-12.02.47:634][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FPSMaps' took 0.036
+[2018.05.20-12.02.47:886][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FPSProjectGameModeBase] ([1] browsable assets)...
+[2018.05.20-12.02.47:887][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPSProjectGameModeBase]
+[2018.05.20-12.02.47:905][828]LogSavePackage: Save=9.00ms
+[2018.05.20-12.02.47:905][828]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/BP_FPSProjectGameModeBase_Auto144A88713451E0F4C398F6F90824F1CED.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/Autosaves/Game/Blueprints/BP_FPSProjectGameModeBase_Auto1.uasset'
+[2018.05.20-12.02.47:930][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/Autosaves/Game/Blueprints/BP_FPSProjectGameModeBase_Auto1.uasset
+[2018.05.20-12.02.47:930][828]LogFileHelpers: Auto-saving content packages took 0.294
+[2018.05.20-12.07.01:018][185]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-12.07.01:021][185]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-12.19.23:318][543]LogSlate: Window 'Save Content' being destroyed
+[2018.05.20-12.19.23:359][543]LogSavePackage: Save=9.19ms
+[2018.05.20-12.19.23:359][543]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Saved/BP_FPSProjectGameModeBase5754F04C4150025A24772B96586F41F2.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Blueprints/BP_FPSProjectGameModeBase.uasset'
+[2018.05.20-12.19.23:364][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Content/Blueprints/BP_FPSProjectGameModeBase.uasset
+[2018.05.20-13.23.23:636][107]LogHotReload: New module detected: UE4Editor-FPSProject-9688.dll
+[2018.05.20-13.23.25:268][113]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.20-13.23.25:491][113]LogClass: Could not find existing class FPSCharacter in package /Script/FPSProject for HotReload, assuming new class
+[2018.05.20-13.23.25:517][113]LogClass: Function MoveForward is new.
+[2018.05.20-13.23.25:517][113]LogClass: Function MoveRight is new.
+[2018.05.20-13.23.25:636][113]LogHotReload: Re-instancing FPSCharacter after hot-reload.
+[2018.05.20-13.23.26:101][113]LogContentBrowser: Native class hierarchy updated for 'FPSProject' in 0.0025 seconds. Added 2 classes and 2 folders.
+[2018.05.20-13.23.26:104][113]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.20-13.23.27:558][113]LogContentBrowser: Native class hierarchy populated in 0.0228 seconds. Added 2455 classes and 562 folders.
+[2018.05.20-13.23.27:562][113]Display: HotReload took  2.3s.
+[2018.05.20-13.23.41:313][235]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.20-13.23.41:343][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-13.23.41:344][235]PIE: New page: PIE session: FPSMaps (May 21, 2018, 5:23:41 AM)
+[2018.05.20-13.23.41:344][235]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-13.23.41:353][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008835s)
+[2018.05.20-13.23.41:357][235]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-13.23.41:357][235]LogPlayLevel: PIE: World Init took: (0.004235s)
+[2018.05.20-13.23.41:358][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.013406s)
+[2018.05.20-13.23.41:522][235]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-13.23.41:554][235]LogInit: FAudioDevice initialized.
+[2018.05.20-13.23.41:591][235]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-13.23.41:594][235]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-21.23.41
+[2018.05.20-13.23.41:594][235]LogWorld: Bringing up level for play took: 0.001049
+[2018.05.20-13.23.41:596][235]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps 0.593
+[2018.05.20-13.23.51:293][782]Cmd: POLY SELECT ADJACENT WALLS
+[2018.05.20-13.23.53:716][919]Cmd: POLY SELECT MEMORY UNION
+[2018.05.20-13.23.54:049][939]Cmd: POLY SELECT ALL
+[2018.05.20-13.23.57:886][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.20-13.29.54:988][658]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.20-13.29.55:198][659]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FPSProject
+[2018.05.20-13.29.55:198][659]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-13.29.55:198][659]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.20-13.29.55:199][659]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-13.29.55:199][659]LogTemp: BranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.20-13.29.55:200][659]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.20-13.32.15:026][349]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-13.32.15:031][349]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-13.32.49:522][710]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.20-13.32.49:941][713]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FPSProject
+[2018.05.20-13.32.49:941][713]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-13.32.49:941][713]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.20-13.32.49:941][713]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.20-13.32.49:941][713]LogTemp: BranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.20-13.32.49:941][713]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.20-13.32.55:326][ 31]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-13.32.55:328][ 31]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.20-13.34.39:051][455]Candidate modules for hot reload:
+[2018.05.20-13.34.39:051][455]  FPSProject
+[2018.05.20-13.34.39:051][455]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject -ModuleWithSuffix=FPSProject,6251 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/FPSProject.uproject" ]
+[2018.05.20-13.34.39:083][455]Warning: Starting HotReload took  0.4s.
+[2018.05.20-13.35.14:251][589]CompilerResultsLog: New page: Compilation - May 21, 2018, 5:35:14 AM
+[2018.05.20-13.35.14:265][589]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.20-13.35.14:265][589]CompilerResultsLog: Creating makefile for hot reloading FPSProject (modules to compile have changed)
+[2018.05.20-13.35.14:265][589]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.20-13.35.14:265][589]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.05.20-13.35.14:265][589]CompilerResultsLog: FPSCharacter.cpp
+[2018.05.20-13.35.14:265][589]CompilerResultsLog: [2/3] Link UE4Editor-FPSProject-6251.dll
+[2018.05.20-13.35.14:265][589]CompilerResultsLog: [3/3] Link UE4Editor-FPSProject-6251.lib
+[2018.05.20-13.35.14:265][589]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-6251.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-6251.exp
+[2018.05.20-13.35.14:266][589]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-6251.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-6251.suppressed.exp
+[2018.05.20-13.35.14:266][589]CompilerResultsLog: Total build time: 34.69 seconds (Local executor: 23.29 seconds)
+[2018.05.20-13.35.14:266][589]LogMainFrame: MainFrame: Module compiling took 35.220 seconds
+[2018.05.20-13.35.14:372][589]LogContentBrowser: Native class hierarchy updated for 'FPSProject' in 0.0013 seconds. Added 2 classes and 2 folders.
+[2018.05.20-13.35.14:375][589]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.05.20-13.35.15:319][589]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2455 classes and 562 folders.
+[2018.05.20-13.35.15:319][589]Display: HotReload took 36.6s.
+[2018.05.20-13.35.25:015][674]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.20-13.35.25:034][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-13.35.25:034][674]PIE: New page: PIE session: FPSMaps (May 21, 2018, 5:35:25 AM)
+[2018.05.20-13.35.25:034][674]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-13.35.25:036][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002435s)
+[2018.05.20-13.35.25:037][674]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-13.35.25:037][674]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2018.05.20-13.35.25:038][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.003755s)
+[2018.05.20-13.35.25:107][674]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-13.35.25:136][674]LogInit: FAudioDevice initialized.
+[2018.05.20-13.35.25:170][674]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-13.35.25:172][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-21.35.25
+[2018.05.20-13.35.25:172][674]LogWorld: Bringing up level for play took: 0.000754
+[2018.05.20-13.35.25:174][674]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps 0.171
+[2018.05.20-13.37.18:396][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-13.53.48:825][646]Candidate modules for hot reload:
+[2018.05.20-13.53.48:825][646]  FPSProject
+[2018.05.20-13.53.48:825][646]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject -ModuleWithSuffix=FPSProject,5775 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/FPSProject.uproject" ]
+[2018.05.20-13.53.48:833][646]Warning: Starting HotReload took  0.0s.
+[2018.05.20-13.54.06:800][736]CompilerResultsLog: New page: Compilation - May 21, 2018, 5:54:06 AM
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: FPSCharacter.cpp
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Error: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(42) : error C2296: '*': illegal, left operand has type 'void (__cdecl APawn::* )(float)'
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Error: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(42) : error C2660: 'UInputComponent::BindAxis': function does not take 2 arguments
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(713) : note: see declaration of 'UInputComponent::BindAxis'
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Error: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(43) : error C2296: '*': illegal, left operand has type 'void (__cdecl APawn::* )(float)'
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Error: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(43) : error C2660: 'UInputComponent::BindAxis': function does not take 2 arguments
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(713) : note: see declaration of 'UInputComponent::BindAxis'
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Binaries\Win64\UE4Editor-FPSProject-5775.dll
+[2018.05.20-13.54.06:813][736]CompilerResultsLog: Total build time: 17.14 seconds (Local executor: 0.00 seconds)
+[2018.05.20-13.54.06:813][736]LogMainFrame: MainFrame: Module compiling took 17.992 seconds
+[2018.05.20-13.54.06:837][736]Warning: HotReload failed, recompile failed
+[2018.05.20-13.54.14:410][950]LogSlate: Window 'Message Log' being destroyed
+[2018.05.20-13.54.14:413][950]LogSlate: Window 'Message Log' being destroyed
+[2018.05.20-14.31.33:092][758]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.20-14.31.33:304][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-14.31.33:548][758]PIE: New page: PIE session: FPSMaps (May 21, 2018, 6:31:33 AM)
+[2018.05.20-14.31.33:550][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-14.31.33:741][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.190849s)
+[2018.05.20-14.31.33:746][758]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-14.31.33:750][758]LogPlayLevel: PIE: World Init took: (0.008671s)
+[2018.05.20-14.31.33:750][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.200659s)
+[2018.05.20-14.31.33:986][758]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-14.31.34:015][758]LogInit: FAudioDevice initialized.
+[2018.05.20-14.31.34:052][758]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-14.31.34:055][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-22.31.34
+[2018.05.20-14.31.34:055][758]LogWorld: Bringing up level for play took: 0.001352
+[2018.05.20-14.31.34:061][758]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps 1.058
+[2018.05.20-14.33.26:172][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-14.41.43:634][663]Candidate modules for hot reload:
+[2018.05.20-14.41.43:634][663]  FPSProject
+[2018.05.20-14.41.43:635][663]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject -ModuleWithSuffix=FPSProject,9379 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/FPSProject.uproject" ]
+[2018.05.20-14.41.43:660][663]Warning: Starting HotReload took  1.3s.
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: New page: Compilation - May 21, 2018, 6:42:38 AM
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: Creating makefile for hot reloading FPSProject (modules to compile have changed)
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: FPSCharacter.cpp
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: [2/3] Link UE4Editor-FPSProject-9379.dll
+[2018.05.20-14.42.38:371][829]CompilerResultsLog: [3/3] Link UE4Editor-FPSProject-9379.lib
+[2018.05.20-14.42.38:371][829]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-9379.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-9379.exp
+[2018.05.20-14.42.38:372][829]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-9379.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-9379.suppressed.exp
+[2018.05.20-14.42.38:372][829]CompilerResultsLog: Total build time: 54.10 seconds (Local executor: 18.23 seconds)
+[2018.05.20-14.42.38:372][829]LogMainFrame: MainFrame: Module compiling took 54.742 seconds
+[2018.05.20-14.42.38:473][829]LogClass: Could not find existing class FPSCharacter in package /Script/FPSProject for HotReload, assuming new class
+[2018.05.20-14.42.38:505][829]LogClass: Function MoveForward is new.
+[2018.05.20-14.42.38:505][829]LogClass: Function MoveRight is new.
+[2018.05.20-14.42.38:505][829]LogClass: Function SetPitchSensitivity is new.
+[2018.05.20-14.42.38:505][829]LogClass: Function SetYawSensitivity is new.
+[2018.05.20-14.42.38:560][829]LogHotReload: Re-instancing FPSCharacter after hot-reload.
+[2018.05.20-14.42.39:452][829]LogContentBrowser: Native class hierarchy updated for 'FPSProject' in 0.0022 seconds. Added 2 classes and 2 folders.
+[2018.05.20-14.42.39:455][829]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.20-14.42.40:207][829]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 2455 classes and 562 folders.
+[2018.05.20-14.42.40:207][829]Display: HotReload took 57.8s.
+[2018.05.20-14.42.44:159][984]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.20-14.42.44:177][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.20-14.42.44:177][984]PIE: New page: PIE session: FPSMaps (May 21, 2018, 6:42:44 AM)
+[2018.05.20-14.42.44:178][984]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMaps
+[2018.05.20-14.42.44:181][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003203s)
+[2018.05.20-14.42.44:182][984]LogAIModule: Creating AISystem for world FPSMaps
+[2018.05.20-14.42.44:182][984]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2018.05.20-14.42.44:182][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMaps.FPSMaps to /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps (0.004783s)
+[2018.05.20-14.42.44:298][984]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.20-14.42.44:325][984]LogInit: FAudioDevice initialized.
+[2018.05.20-14.42.44:358][984]LogLoad: Game class is 'BP_FPSProjectGameModeBase_C'
+[2018.05.20-14.42.44:359][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMaps.FPSMaps up for play (max tick rate 60) at 2018.05.20-22.42.44
+[2018.05.20-14.42.44:360][984]LogWorld: Bringing up level for play took: 0.000804
+[2018.05.20-14.42.44:361][984]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMaps -0.641
+[2018.05.20-14.43.00:139][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.20-14.43.01:602][639]Candidate modules for hot reload:
+[2018.05.20-14.43.01:602][639]  FPSProject
+[2018.05.20-14.43.01:602][639]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe FPSProject -ModuleWithSuffix=FPSProject,9516 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/FPSProject.uproject" ]
+[2018.05.20-14.43.01:616][639]Warning: Starting HotReload took  0.0s.
+[2018.05.20-14.43.02:207][650]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+ with error E_INVALIDARG
+[2018.05.20-14.43.02:400][650]LogWindows: Windows GetLastError: The operation completed successfully. (0)

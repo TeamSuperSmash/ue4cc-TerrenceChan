@@ -1,9 +1,15 @@
-﻿  Performing full C++ include scan (hot reloading a new target)
-  Using 'git status' to determine working set for adaptive non-unity build.
-  Creating makefile for hot reloading FPSProjectEditor (no existing makefile)
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
   Compiling game modules for hot reload
-  Parsing headers for FPSProjectEditor
-    Running UnrealHeaderTool "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\FPSProject.uproject" "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\FPSProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-C:/Users/User/Documents/GitHub Files/UE4 Crash Course/FPSProject/Source/FPSProject/FPSProjectGameModeBase.h(8): error : #include found after .generated.h file - the .generated.h file should always be the last #include in a header
-EXEC : error : UnrealHeaderTool failed for target 'FPSProjectEditor' (platform: Win64, module info: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\FPSProjectEditor.uhtmanifest, exit code: OtherCompilationError (5)).
+  Performing 3 actions (4 in parallel)
+  FPSCharacter.cpp
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(42): error C2678: binary '*': no operator found which takes a left-hand operand of type 'FInputAxisBinding' (or there is no acceptable conversion)
+  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Rotator.h(436): note: could be 'FRotator operator *(float,const FRotator &)'
+  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/TwoVectors.h(237): note: or       'FTwoVectors operator *(float,const FTwoVectors &)'
+  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Vector.h(1005): note: or       'FVector operator *(float,const FVector &)'
+  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Vector2D.h(545): note: or       'FVector2D operator *(float,const FVector2D &)'
+  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Color.h(388): note: or       'FLinearColor operator *(float,const FLinearColor &)'
+  C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Misc/Timespan.h(784): note: or       'FTimespan operator *(float,const FTimespan &)'
+  C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(42): note: while trying to match the argument list '(FInputAxisBinding, float)'
+UnrealBuildTool : error : UBT ERROR: Failed to produce item: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Binaries\Win64\UE4Editor-FPSProject-8211.dll
+  Total build time: 14.02 seconds (Local executor: 0.00 seconds)
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.19\Engine\Build\BatchFiles\Build.bat" FPSProjectEditor Win64 Development "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\FPSProject.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
