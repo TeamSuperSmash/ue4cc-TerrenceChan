@@ -7,8 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSCharacter.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProject.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSCharacter.gen.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProject.init.gen.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\PCLaunch.rc.res"

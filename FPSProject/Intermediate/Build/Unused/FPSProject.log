@@ -2,14 +2,9 @@
   Compiling game modules for hot reload
   Performing 3 actions (4 in parallel)
   FPSCharacter.cpp
-C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(42): error C2678: binary '*': no operator found which takes a left-hand operand of type 'FInputAxisBinding' (or there is no acceptable conversion)
-  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Rotator.h(436): note: could be 'FRotator operator *(float,const FRotator &)'
-  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/TwoVectors.h(237): note: or       'FTwoVectors operator *(float,const FTwoVectors &)'
-  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Vector.h(1005): note: or       'FVector operator *(float,const FVector &)'
-  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Vector2D.h(545): note: or       'FVector2D operator *(float,const FVector2D &)'
-  c:\program files\epic games\ue_4.19\engine\source\runtime\core\public\Math/Color.h(388): note: or       'FLinearColor operator *(float,const FLinearColor &)'
-  C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Misc/Timespan.h(784): note: or       'FTimespan operator *(float,const FTimespan &)'
-  C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(42): note: while trying to match the argument list '(FInputAxisBinding, float)'
-UnrealBuildTool : error : UBT ERROR: Failed to produce item: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Binaries\Win64\UE4Editor-FPSProject-8211.dll
-  Total build time: 14.02 seconds (Local executor: 0.00 seconds)
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.19\Engine\Build\BatchFiles\Build.bat" FPSProjectEditor Win64 Development "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\FPSProject.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
+  [2/3] Link UE4Editor-FPSProject-1352.dll
+  [3/3] Link UE4Editor-FPSProject-1352.lib
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-1352.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-1352.suppressed.exp
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-1352.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-1352.exp
+  Deploying FPSProjectEditor Win64 Development...
+  Total build time: 20.50 seconds (Local executor: 18.14 seconds)
