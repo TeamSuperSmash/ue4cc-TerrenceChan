@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "FPSCharacter.h"
-#include "FPSProject.h"
 
 // Sets default values
 AFPSCharacter::AFPSCharacter()
@@ -9,6 +8,29 @@ AFPSCharacter::AFPSCharacter()
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+#pragma region SetFPSCamera
+    // Create FPS camera component.
+    FPSCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("FirstPersonCamera"));
+    // Attack camera component to capsule component.
+    FPSCameraComponent->SetupAttachment(GetCapsuleComponent());
+    // Position camera slightly above the eyes.
+    FPSCameraComponent->SetRelativeLocation(FVector(0.0f, 0.0f, 50.0f + BaseEyeHeight));
+    // Allow the pawn the control camera rotation.
+    FPSCameraComponent->bUsePawnControlRotation = true;
+#pragma endregion
+
+#pragma region SetFPSMesh
+    // Create first person mesh component for player.
+    FPSMesh = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("FirstPersonMesh"));
+    // Only player owner sees this mesh.
+    FPSMesh->SetOnlyOwnerSee(true);
+    // Attach FPS mesh to FPS camera.
+    FPSMesh->SetupAttachment(FPSCameraComponent);
+    // Disable environmental shadow to retain illusion of single mesh.
+    FPSMesh->bCastDynamicShadow = false;
+    FPSMesh->CastShadow = false;
+    GetMesh()->SetOwnerNoSee(true);
+#pragma endregion
 }
 
 // Called when the game starts or when spawned
@@ -45,6 +67,7 @@ void AFPSCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompon
     // Set up "action" bindings.
     PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AFPSCharacter::StartJump);
     PlayerInputComponent->BindAction("Jump", IE_Released, this, &AFPSCharacter::StopJump);
+    PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &AFPSCharacter::Fire);
 }
 
 void AFPSCharacter::MoveForward(float value)
@@ -79,5 +102,39 @@ void AFPSCharacter::StartJump()
 void AFPSCharacter::StopJump()
 {
     bPressedJump = false;
+}
+
+void AFPSCharacter::Fire()
+{
+    // Attempt to fire projectile...
+    if (ProjectileClass)
+    {
+        // Get camera transform.
+        FVector CameraLocation;
+        FRotator CameraRotation;
+        GetActorEyesViewPoint(CameraLocation, CameraRotation);
+
+        // Transform MuzzleOffset from camera space to world space.
+        FVector MuzzleLocation = CameraLocation + FTransform(CameraRotation).TransformVector(MuzzleOffset);
+        FRotator MuzzleRotation = CameraRotation;
+        // Skew aim to be slightly upwards.
+        MuzzleRotation.Pitch += 10.0f;
+        
+        UWorld* World = GetWorld();
+        if (World)
+        {
+            FActorSpawnParameters SpawnParams;
+            SpawnParams.Owner = this;
+            SpawnParams.Instigator = Instigator;
+            // Spawn the projectile at the muzzle.
+            AFPSProjectile* Projectile = World->SpawnActor<AFPSProjectile>(ProjectileClass, MuzzleLocation, MuzzleRotation, SpawnParams);
+            if (Projectile)
+            {
+                // Set the projectile's initial trajectory.
+                FVector LaunchDirection = MuzzleRotation.Vector();
+                Projectile->FireInDirection(LaunchDirection);
+            }
+        }
+    }
 }
 

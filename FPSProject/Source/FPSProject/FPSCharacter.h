@@ -3,7 +3,10 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "FPSProject.h"
 #include "GameFramework/Character.h"
+#include "Camera/CameraComponent.h"
+#include "FPSProjectile.h"
 #include "FPSCharacter.generated.h"
 
 UCLASS()
@@ -45,4 +48,20 @@ public:
 
     UFUNCTION()
         void StopJump();
+
+    UFUNCTION()
+        void Fire();
+
+    // FPS Camera.
+    UPROPERTY(VisibleAnywhere)
+        UCameraComponent* FPSCameraComponent;
+
+    UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+        USkeletalMeshComponent* FPSMesh;
+
+    UPROPERTY(EditAnywhere, Category = Gameplay)
+        FVector MuzzleOffset;
+
+    UPROPERTY(EditDefaultsOnly, Category = Projectile)
+        TSubclassOf<class AFPSProjectile> ProjectileClass;
 };

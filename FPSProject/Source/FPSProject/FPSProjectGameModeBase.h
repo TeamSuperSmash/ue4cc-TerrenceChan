@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "FPSProject.h"
 #include "GameFramework/GameModeBase.h"
 #include "FPSProjectGameModeBase.generated.h"
 
