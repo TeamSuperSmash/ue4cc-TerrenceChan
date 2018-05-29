@@ -8,10 +8,12 @@
 /NODEFAULTLIB
 "C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.h.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSCharacter.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSHUD.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSProject.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSProjectGameModeBase.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSProjectile.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSCharacter.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSHUD.gen.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSProject.init.gen.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSProjectGameModeBase.gen.cpp.obj"
 "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\FPSProject\FPSProjectile.gen.cpp.obj"

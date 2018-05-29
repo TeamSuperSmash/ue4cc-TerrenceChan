@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FPSProject-615.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSCharacter.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProject.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectile.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSCharacter.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProject.init.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FPSProject-615.lib"

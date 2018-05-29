@@ -418,7 +418,9 @@
     <ClCompile Include="..\..\Source\FPSProject\FPSCharacter.cpp" />
     <ClInclude Include="..\..\Source\FPSProject\FPSCharacter.h" />
     <None Include="..\..\Source\FPSProject\FPSProject.Build.cs" />
+    <ClCompile Include="..\..\Source\FPSProject\FPSHUD.cpp" />
     <ClCompile Include="..\..\Source\FPSProject\FPSProject.cpp" />
+    <ClInclude Include="..\..\Source\FPSProject\FPSHUD.h" />
     <ClInclude Include="..\..\Source\FPSProject\FPSProject.h" />
     <ClCompile Include="..\..\Source\FPSProject\FPSProjectGameModeBase.cpp" />
     <ClInclude Include="..\..\Source\FPSProject\FPSProjectGameModeBase.h" />

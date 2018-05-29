@@ -1,11 +1,10 @@
-﻿  Performing full C++ include scan (hot reloading a new target)
-  Using 'git status' to determine working set for adaptive non-unity build.
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
   Compiling game modules for hot reload
-  Performing 5 actions (4 in parallel)
-  [3/5] Resource PCLaunch.rc
-  FPSCharacter.gen.cpp
-  FPSCharacter.cpp
-C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Source\FPSProject\FPSCharacter.cpp(70): error C2065: 'IE_Hold': undeclared identifier
-UnrealBuildTool : error : UBT ERROR: Failed to produce item: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Binaries\Win64\UE4Editor-FPSProject-9357-Win64-DebugGame.dll
-  Total build time: 396.58 seconds (Local executor: 0.00 seconds)
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.19\Engine\Build\BatchFiles\Build.bat" FPSProjectEditor Win64 DebugGame "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\FPSProject.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
+  Performing 3 actions (4 in parallel)
+  FPSHUD.cpp
+  [2/3] Link UE4Editor-FPSProject-4293-Win64-DebugGame.dll
+  [3/3] Link UE4Editor-FPSProject-4293-Win64-DebugGame.lib
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-FPSProject-4293-Win64-DebugGame.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-FPSProject-4293-Win64-DebugGame.exp
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-FPSProject-4293-Win64-DebugGame.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\FPSProject\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-FPSProject-4293-Win64-DebugGame.suppressed.exp
+  Deploying FPSProjectEditor Win64 DebugGame...
+  Total build time: 14.58 seconds (Local executor: 12.39 seconds)
