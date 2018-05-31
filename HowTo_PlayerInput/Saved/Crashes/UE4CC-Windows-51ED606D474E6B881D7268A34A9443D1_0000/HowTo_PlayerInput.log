@@ -1,0 +1,852 @@
+﻿Log file open, 05/31/18 11:25:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HowTo_PlayerInput
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2038917081) SRandInit(-2038917081).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211387
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.260s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Binaries/Win64/UE4Editor-HowTo_PlayerInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Asus (192.168.0.5:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.31-03.25.18:558][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.31-03.25.18:558][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.31-03.25.18:572][  0]LogInit: Computer: ASUS
+[2018.05.31-03.25.18:572][  0]LogInit: User: User
+[2018.05.31-03.25.18:572][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.31-03.25.18:572][  0]LogInit: High frequency timer resolution =2.437497 MHz
+[2018.05.31-03.25.18:572][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.31-03.25.18:572][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.31-03.25.18:572][  0]LogMemory: Process Physical Memory: 276.14 MB used, 276.14 MB peak
+[2018.05.31-03.25.18:572][  0]LogMemory: Process Virtual Memory: 263.96 MB used, 263.96 MB peak
+[2018.05.31-03.25.18:572][  0]LogMemory: Physical Memory: 5242.95 MB used,  2834.07 MB free, 8077.02 MB total
+[2018.05.31-03.25.18:572][  0]LogMemory: Virtual Memory: 4764.45 MB used,  2834.07 MB free, 134217728.00 MB total
+[2018.05.31-03.25.18:601][  0]LogInit: Using OS detected language (en-US).
+[2018.05.31-03.25.18:601][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.31-03.25.18:606][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.31-03.25.19:159][  0]LogStreaming: Display: Took  0.558s to EndInitTextLocalization.
+[2018.05.31-03.25.19:159][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.31-03.25.19:194][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.31-03.25.19:194][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.31-03.25.19:498][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.31-03.25.19:569][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.05.31-03.25.19:569][  0]LogD3D11RHI:       4021/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.31-03.25.19:579][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.05.31-03.25.19:579][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.31-03.25.19:582][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.31-03.25.19:582][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.31-03.25.19:582][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.31-03.25.19:594][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.31-03.25.19:595][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.05.31-03.25.19:595][  0]LogWindows: EnumDisplayDevices:
+[2018.05.31-03.25.19:595][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.05.31-03.25.19:595][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.31-03.25.19:595][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.31-03.25.19:595][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.31-03.25.19:595][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.05.31-03.25.19:595][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.31-03.25.19:595][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.31-03.25.19:595][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.05.31-03.25.19:649][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.31-03.25.19:649][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.31-03.25.19:649][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.31-03.25.19:669][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.31-03.25.19:670][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Intermediate/Shaders/WorkingDirectory/8392/).
+[2018.05.31-03.25.19:670][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/2D722C454C57E993F10E3FA603A8FA57/'.
+[2018.05.31-03.25.20:158][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.31-03.25.20:179][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.31-03.25.20:199][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.31-03.25.20:219][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.31-03.25.20:239][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.31-03.25.20:258][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.31-03.25.20:278][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.31-03.25.20:298][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.31-03.25.20:308][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.31-03.25.20:325][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.31-03.25.20:341][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.31-03.25.20:358][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.31-03.25.20:375][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.31-03.25.20:392][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.31-03.25.20:410][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.31-03.25.20:447][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.31-03.25.20:447][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.31-03.25.20:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.31-03.25.20:469][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.31-03.25.20:514][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.31-03.25.20:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.31-03.25.20:549][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.31-03.25.20:567][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.31-03.25.20:585][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.31-03.25.20:603][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.31-03.25.20:603][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.31-03.25.20:805][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.31-03.25.20:805][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.31-03.25.20:805][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.31-03.25.21:751][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.31-03.25.21:828][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/User/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.31-03.25.21:828][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.31-03.25.21:828][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.31-03.25.21:828][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.31-03.25.21:828][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.31-03.25.21:828][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.31-03.25.21:849][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.31-03.25.21:864][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.31-03.25.21:864][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.31-03.25.21:864][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.31-03.25.21:879][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.31-03.25.21:879][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.31-03.25.21:880][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.31-03.25.21:880][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.31-03.25.22:096][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.05.31-03.25.22:502][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.31-03.25.22:717][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.31-03.25.22:722][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.31-03.25.22:722][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.31-03.25.22:722][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.31-03.25.22:722][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.31-03.25.22:722][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.31-03.25.22:774][  0]LogNetVersion: HowTo_PlayerInput , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1166357435)
+[2018.05.31-03.25.23:470][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.145859 seconds
+[2018.05.31-03.25.23:477][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.31-03.25.23:477][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.31-03.25.23:477][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.31-03.25.26:204][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.31-03.25.26:267][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.31-03.25.27:007][  0]SourceControl: Source control is disabled
+[2018.05.31-03.25.27:007][  0]SourceControl: Source control is disabled
+[2018.05.31-03.25.27:045][  0]SourceControl: Source control is disabled
+[2018.05.31-03.25.27:080][  0]SourceControl: Source control is disabled
+[2018.05.31-03.25.27:923][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.31-03.25.28:196][  0]LogOcInput: OculusInput pre-init called
+[2018.05.31-03.25.28:375][  0]LogEngine: Initializing Engine...
+[2018.05.31-03.25.28:378][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.31-03.25.28:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.31-03.25.28:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.31-03.25.28:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.31-03.25.28:753][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.31-03.25.28:790][  0]LogInit: FAudioDevice initialized.
+[2018.05.31-03.25.30:374][  0]LogDerivedDataCache: Saved boot cache 1.58s 74MB C:/Users/User/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.31-03.25.30:389][  0]LogInit: Texture streaming: Enabled
+[2018.05.31-03.25.30:431][  0]LogInit: Transaction tracking system initialized
+[2018.05.31-03.25.30:480][  0]BlueprintLog: New page: Editor Load
+[2018.05.31-03.25.31:179][  0]LocalizationService: Localization service is disabled
+[2018.05.31-03.25.31:375][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016651cc18a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.31-03.25.31:379][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016651cc18a0, Size=88
+[2018.05.31-03.25.31:379][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016651cc18a0, Size=88, Default__Landscape_Sculpt_Mode_C Function /Engine/Transient.REINST_Landscape_Sculpt_Mode_C_3:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.31-03.25.31:382][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001663dde9760, Size=80, Default__Landscape_Sculpt_Mode_C Function /Engine/Tutorial/Landscape/Landscape_Sculpt_Mode.Landscape_Sculpt_Mode_C:ExecuteUbergraph_Landscape_Sculpt_Mode
+[2018.05.31-03.25.31:887][  0]LogConsoleResponse: Display: 
+[2018.05.31-03.25.33:038][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/' took 0.01s
+[2018.05.31-03.25.33:038][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.31-03.25.33:038][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.31-03.25.33:038][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.31-03.25.33:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.31-03.25.33:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.31-03.25.33:756][  0]SourceControl: Source control is disabled
+[2018.05.31-03.25.35:450][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.05.31-03.25.36:838][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.05.31-03.25.36:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.05.31-03.25.36:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.05.31-03.25.36:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.05.31-03.25.36:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.05.31-03.25.36:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.05.31-03.25.37:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.05.31-03.25.37:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.05.31-03.25.37:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.05.31-03.25.37:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.05.31-03.25.37:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.05.31-03.25.37:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.05.31-03.25.37:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.05.31-03.25.38:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.05.31-03.25.38:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.05.31-03.25.38:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.05.31-03.25.38:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.05.31-03.25.38:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.05.31-03.25.38:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Fire01.uasset"
+[2018.05.31-03.25.38:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.05.31-03.25.38:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.05.31-03.25.39:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.05.31-03.25.39:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Light01.uasset"
+[2018.05.31-03.25.39:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.05.31-03.25.39:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Light02.uasset"
+[2018.05.31-03.25.39:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.05.31-03.25.39:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.05.31-03.25.40:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.05.31-03.25.40:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.05.31-03.25.40:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.05.31-03.25.43:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.05.31-03.25.43:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.05.31-03.25.44:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.05.31-03.25.44:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.05.31-03.25.44:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Steam01.uasset"
+[2018.05.31-03.25.44:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.05.31-03.25.44:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.05.31-03.25.44:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.05.31-03.25.44:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.05.31-03.25.44:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.05.31-03.25.44:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.05.31-03.25.45:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.05.31-03.25.45:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.05.31-03.25.45:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.05.31-03.25.45:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.05.31-03.25.45:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.05.31-03.25.45:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.05.31-03.25.46:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.05.31-03.25.46:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.05.31-03.25.46:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.05.31-03.25.46:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.05.31-03.25.46:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.05.31-03.25.59:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.05.31-03.25.59:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.05.31-03.25.59:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.05.31-03.25.59:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.05.31-03.25.59:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.05.31-03.26.01:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/StarterMap.umap"
+[2018.05.31-03.26.04:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.05.31-03.26.04:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.05.31-03.26.04:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.05.31-03.26.04:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.05.31-03.26.04:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.05.31-03.26.04:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.05.31-03.26.04:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.05.31-03.26.04:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.05.31-03.26.04:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.05.31-03.26.04:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.05.31-03.26.05:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.05.31-03.26.05:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.05.31-03.26.05:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.05.31-03.26.05:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.05.31-03.26.05:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.05.31-03.26.05:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.05.31-03.26.05:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.05.31-03.26.05:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.05.31-03.26.05:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.05.31-03.26.05:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.05.31-03.26.05:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.05.31-03.26.05:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.05.31-03.26.05:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.05.31-03.26.05:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.05.31-03.26.05:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.05.31-03.26.05:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.05.31-03.26.05:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.05.31-03.26.06:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.05.31-03.26.06:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.05.31-03.26.06:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.05.31-03.26.06:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.05.31-03.26.06:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.05.31-03.26.06:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.05.31-03.26.06:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.05.31-03.26.06:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.05.31-03.26.06:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.05.31-03.26.06:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.05.31-03.26.06:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.05.31-03.26.06:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.05.31-03.26.06:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.05.31-03.26.06:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.05.31-03.26.06:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.05.31-03.26.06:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.05.31-03.26.07:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.05.31-03.26.07:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.05.31-03.26.07:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.05.31-03.26.07:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.05.31-03.26.07:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.05.31-03.26.07:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.05.31-03.26.07:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.05.31-03.26.07:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.05.31-03.26.07:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.05.31-03.26.07:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.05.31-03.26.07:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.05.31-03.26.07:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.05.31-03.26.07:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.05.31-03.26.07:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.05.31-03.26.07:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.05.31-03.26.07:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.05.31-03.26.07:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.05.31-03.26.07:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.05.31-03.26.07:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.05.31-03.26.07:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.05.31-03.26.07:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.05.31-03.26.07:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.05.31-03.26.07:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Door.uasset"
+[2018.05.31-03.26.07:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.05.31-03.26.07:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.05.31-03.26.07:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.05.31-03.26.07:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.05.31-03.26.08:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.05.31-03.26.09:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.05.31-03.26.09:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.05.31-03.26.09:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.05.31-03.26.09:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.05.31-03.26.09:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.05.31-03.26.10:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.05.31-03.26.10:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.05.31-03.26.10:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.05.31-03.26.10:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.05.31-03.26.10:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.05.31-03.26.11:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.05.31-03.26.11:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.05.31-03.26.11:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.05.31-03.26.11:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.05.31-03.26.11:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.05.31-03.26.11:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.05.31-03.26.11:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.05.31-03.26.11:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.05.31-03.26.11:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.05.31-03.26.11:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.05.31-03.26.11:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.05.31-03.26.11:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.05.31-03.26.11:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.05.31-03.26.11:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.05.31-03.26.11:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.05.31-03.26.11:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.05.31-03.26.11:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.05.31-03.26.11:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.05.31-03.26.12:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.05.31-03.26.12:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.05.31-03.26.12:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.05.31-03.26.12:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.05.31-03.26.12:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.05.31-03.26.12:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.05.31-03.26.12:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.05.31-03.26.12:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.05.31-03.26.12:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.05.31-03.26.12:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.05.31-03.26.12:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.05.31-03.26.13:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.05.31-03.26.15:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.05.31-03.26.17:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.05.31-03.26.20:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.05.31-03.26.22:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.05.31-03.26.25:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.05.31-03.26.28:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.05.31-03.26.29:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.05.31-03.26.34:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.05.31-03.26.37:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.05.31-03.26.39:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.05.31-03.26.42:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.05.31-03.26.44:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.05.31-03.26.44:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.05.31-03.26.45:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.05.31-03.26.45:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.05.31-03.26.45:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.05.31-03.26.45:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.05.31-03.26.45:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.05.31-03.26.45:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.05.31-03.26.45:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.05.31-03.26.47:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.05.31-03.26.47:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.05.31-03.26.47:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.05.31-03.26.48:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.05.31-03.26.48:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.05.31-03.26.48:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.05.31-03.26.48:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.05.31-03.26.48:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.05.31-03.26.49:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.05.31-03.26.49:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.05.31-03.26.49:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.05.31-03.26.51:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.05.31-03.26.52:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.05.31-03.26.52:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.05.31-03.26.52:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.05.31-03.26.52:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.05.31-03.26.52:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.05.31-03.26.52:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.05.31-03.26.53:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.05.31-03.26.53:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.05.31-03.26.53:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.05.31-03.26.53:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.05.31-03.26.53:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.05.31-03.26.53:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.05.31-03.26.53:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.05.31-03.26.53:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.05.31-03.26.53:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.05.31-03.26.54:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.05.31-03.26.54:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.05.31-03.26.55:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.05.31-03.26.55:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.05.31-03.26.55:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.05.31-03.26.55:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.05.31-03.26.55:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.05.31-03.26.55:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.05.31-03.26.55:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.05.31-03.26.58:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.05.31-03.27.00:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.05.31-03.27.01:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.05.31-03.27.01:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.05.31-03.27.02:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.05.31-03.27.03:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.05.31-03.27.04:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.05.31-03.27.04:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.05.31-03.27.04:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.05.31-03.27.04:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.05.31-03.27.04:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.05.31-03.27.04:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.05.31-03.27.04:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.05.31-03.27.05:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.05.31-03.27.05:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.05.31-03.27.05:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.05.31-03.27.05:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.05.31-03.27.06:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.05.31-03.27.06:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.05.31-03.27.06:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.05.31-03.27.06:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.05.31-03.27.06:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.05.31-03.27.06:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.05.31-03.27.06:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.05.31-03.27.06:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.05.31-03.27.06:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.05.31-03.27.06:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.05.31-03.27.06:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.05.31-03.27.06:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.05.31-03.27.06:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.05.31-03.27.06:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.05.31-03.27.06:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.05.31-03.27.06:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.05.31-03.27.06:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.05.31-03.27.06:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.05.31-03.27.06:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.05.31-03.27.06:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.05.31-03.27.07:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.05.31-03.27.08:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.05.31-03.27.08:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.05.31-03.27.08:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.05.31-03.27.08:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.05.31-03.27.08:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.05.31-03.27.08:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.05.31-03.27.09:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.05.31-03.27.09:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.05.31-03.27.10:634][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2018.05.31-03.27.11:053][  0]LogSavePackage: Save=101.31ms
+[2018.05.31-03.27.11:053][  0]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Saved/Floor_400x400DCB3D8464884FADEEA2653A4B235595F.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.05.31-03.27.11:227][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.31-03.27.11:227][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.05.31-03.27.11:231][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.31-03.27.11:231][  0]LightingResults: New page: Lighting Build
+[2018.05.31-03.27.11:297][  0]MapCheck: New page: Map Check
+[2018.05.31-03.27.11:297][  0]LightingResults: New page: Lighting Build
+[2018.05.31-03.27.11:418][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016651cc18a0, Size=88
+[2018.05.31-03.27.12:258][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.05.31-03.27.12:452][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.31-03.27.12:721][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.31-03.27.12:837][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.006ms to complete.
+[2018.05.31-03.27.12:838][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.607
+[2018.05.31-03.27.14:226][  0]LogCollectionManager: Loaded 0 collections in 0.002899 seconds
+[2018.05.31-03.27.14:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Saved/Collections/' took 0.01s
+[2018.05.31-03.27.14:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/Developers/User/Collections/' took 0.01s
+[2018.05.31-03.27.14:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/Collections/' took 0.01s
+[2018.05.31-03.27.14:371][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.31-03.27.14:391][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2453 classes and 560 folders.
+[2018.05.31-03.27.14:538][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.05.31-03.27.16:007][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.05.31-03.27.16:169][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.05.31-03.27.17:733][  0]LogSlate: Took 0.029838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.31-03.27.17:817][  0]LogSlate: Took 0.023188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.31-03.27.18:120][  0]LogSlate: Took 0.259048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.31-03.27.18:446][  0]LogRenderer: Reallocating scene render targets to support 1120x576 Format 9 NumSamples 1 (Frame:1).
+[2018.05.31-03.27.19:065][  0]LogSlate: Took 0.019296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.31-03.27.20:456][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.05.31-03.27.20:456][  0]LogLoad: (Engine Initialization) Total time: 127.09 seconds
+[2018.05.31-03.27.20:456][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.31-03.27.21:195][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.05.31-03.27.21:368][  1]LogAssetRegistry: Asset discovery search completed in 119.2955 seconds
+[2018.05.31-03.27.21:371][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.31-03.27.21:371][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.05.31-03.29.34:201][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-03.29.50:072][128]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.31-03.29.56:844][128]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.31-03.30.14:472][807]LogSlate: Took 0.087624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.31-03.32.16:632][727]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe HowTo_PlayerInput Win64 Development -editorrecompile "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/HowTo_PlayerInput.uproject" -invalidatemakefilesonly
+[2018.05.31-03.32.17:551][727]Invalidating makefiles only in this run.
+[2018.05.31-03.32.18:168][727]Candidate modules for hot reload:
+[2018.05.31-03.32.18:168][727]  HowTo_PlayerInput
+[2018.05.31-03.32.18:168][727]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe HowTo_PlayerInput -ModuleWithSuffix=HowTo_PlayerInput,1614 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/HowTo_PlayerInput.uproject" ]
+[2018.05.31-03.51.49:149][727]CompilerResultsLog: New page: Compilation - May 31, 2018, 7:51:48 PM
+[2018.05.31-03.51.49:149][727]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.05.31-03.51.49:149][727]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.31-03.51.49:149][727]CompilerResultsLog: Creating makefile for hot reloading HowTo_PlayerInput (no existing makefile)
+[2018.05.31-03.51.49:149][727]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.31-03.51.49:149][727]CompilerResultsLog: Parsing headers for HowTo_PlayerInputEditor
+[2018.05.31-03.51.49:149][727]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\HowTo_PlayerInput.uproject" "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\HowTo_PlayerInputEditor\Development\HowTo_PlayerInputEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: Reflection code generated for HowTo_PlayerInputEditor in 136.915142 seconds
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: MyPawn.gen.cpp
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: HowTo_PlayerInput.init.gen.cpp
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: MyPawn.cpp
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: [4/5] Link UE4Editor-HowTo_PlayerInput-1614.dll
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: [5/5] Link UE4Editor-HowTo_PlayerInput-1614.lib
+[2018.05.31-03.51.49:150][727]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-1614.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-1614.exp
+[2018.05.31-03.51.49:150][727]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-1614.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-1614.suppressed.exp
+[2018.05.31-03.51.49:150][727]CompilerResultsLog: Total build time: 1170.32 seconds (Local executor: 866.95 seconds)
+[2018.05.31-03.51.49:211][727]LogMainFrame: MainFrame: Module compiling took 1171.191 seconds
+[2018.05.31-03.51.49:522][727]LogClass: Could not find existing class MyPawn in package /Script/HowTo_PlayerInput for HotReload, assuming new class
+[2018.05.31-03.51.49:581][727]LogContentBrowser: Native class hierarchy updated for 'HowTo_PlayerInput' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2018.05.31-03.51.49:583][727]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.31-03.51.50:055][727]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2455 classes and 562 folders.
+[2018.05.31-03.51.50:330][727]Display: HotReload took 1172.5s.
+[2018.05.31-03.51.50:331][727]Warning: HotReload operation took 1172.5s.
+[2018.05.31-03.52.02:006][727]LogSlate: Window 'Add C++ Class' being destroyed
+[2018.05.31-03.52.02:045][727]LogHotReload: New module detected: UE4Editor-HowTo_PlayerInput-1614.dll
+[2018.05.31-03.52.03:470][728]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.31-03.52.03:537][728]LogContentBrowser: Native class hierarchy updated for 'HowTo_PlayerInput' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2018.05.31-03.52.03:538][728]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.31-03.52.03:570][728]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2455 classes and 562 folders.
+[2018.05.31-03.52.03:591][728]Display: HotReload took  0.1s.
+[2018.05.31-04.19.16:365][791]LogHotReload: New module detected: UE4Editor-HowTo_PlayerInput-7338.dll
+[2018.05.31-04.19.18:045][797]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.31-04.19.18:276][797]LogClass: Could not find existing class MyPawn in package /Script/HowTo_PlayerInput for HotReload, assuming new class
+[2018.05.31-04.19.18:321][797]LogHotReload: Re-instancing MyPawn after hot-reload.
+[2018.05.31-04.19.18:539][797]LogContentBrowser: Native class hierarchy updated for 'HowTo_PlayerInput' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2018.05.31-04.19.18:541][797]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.31-04.19.18:602][797]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2455 classes and 562 folders.
+[2018.05.31-04.19.18:606][797]Display: HotReload took  0.6s.
+[2018.05.31-04.42.13:996][ 11]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.31-04.42.14:819][ 12]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.HowToPlayerInput
+[2018.05.31-04.42.14:819][ 12]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.31-04.42.14:819][ 12]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.31-04.42.14:819][ 12]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.31-04.42.14:819][ 12]LogTemp: BranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = ASUS/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.31-04.42.14:819][ 12]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.31-04.45.36:471][313]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.31-04.45.36:475][313]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.31-04.45.47:389][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-04.45.49:122][741]LogEditor: Attempting to add actor of class 'MyPawn' to level at 100.00,140.00,30.00
+[2018.05.31-04.45.53:536][893]LogEditor: Attempting to add actor of class 'MyPawn' to level at 100.00,90.00,30.00
+[2018.05.31-04.45.54:956][965]LogEditor: Attempting to add actor of class 'MyPawn' to level at 0.00,10.00,30.00
+[2018.05.31-04.46.06:537][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-04.46.14:535][582]LogSlate: Took 0.026467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.31-04.47.17:362][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-04.47.23:924][948]LogSavePackage: Save=1166.46ms
+[2018.05.31-04.47.23:924][948]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Saved/Minimal_Default4E29AA88444AE4598CA949BB9EDAEFAB.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.05.31-04.47.23:934][948]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.05.31-04.47.24:219][948]LogSavePackage: Save=228.59ms
+[2018.05.31-04.47.24:219][948]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Saved/Minimal_Default_BuiltData681459834B2925098B2A778EB6BD8691.tmp' to '../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.05.31-04.47.24:224][948]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.05.31-04.47.27:434][133]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.05.31-04.47.28:212][168]Cmd: SELECT NONE
+[2018.05.31-04.47.29:255][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.29.15:520][802]LogHotReload: New module detected: UE4Editor-HowTo_PlayerInput-6037.dll
+[2018.05.31-05.29.16:844][807]LogHotReload: Starting Hot-Reload from IDE
+[2018.05.31-05.29.17:156][807]LogClass: Could not find existing class MyPawn in package /Script/HowTo_PlayerInput for HotReload, assuming new class
+[2018.05.31-05.29.17:276][807]LogHotReload: Re-instancing MyPawn after hot-reload.
+[2018.05.31-05.29.17:607][807]LogContentBrowser: Native class hierarchy updated for 'HowTo_PlayerInput' in 0.0023 seconds. Added 2 classes and 2 folders.
+[2018.05.31-05.29.17:609][807]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.31-05.29.17:837][807]LogContentBrowser: Native class hierarchy populated in 0.1673 seconds. Added 2455 classes and 562 folders.
+[2018.05.31-05.29.17:849][807]Display: HotReload took  1.0s.
+[2018.05.31-05.29.29:284][874]Candidate modules for hot reload:
+[2018.05.31-05.29.29:284][874]  HowTo_PlayerInput
+[2018.05.31-05.29.29:284][874]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe HowTo_PlayerInput -ModuleWithSuffix=HowTo_PlayerInput,2411 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/HowTo_PlayerInput.uproject" ]
+[2018.05.31-05.29.29:308][874]Warning: Starting HotReload took  0.1s.
+[2018.05.31-05.29.41:165][ 33]CompilerResultsLog: New page: Compilation - May 31, 2018, 9:29:41 PM
+[2018.05.31-05.29.41:165][ 33]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.31-05.29.41:165][ 33]CompilerResultsLog: Creating makefile for hot reloading HowTo_PlayerInput (modules to compile have changed)
+[2018.05.31-05.29.41:165][ 33]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.31-05.29.41:165][ 33]CompilerResultsLog: Target is up to date
+[2018.05.31-05.29.41:165][ 33]CompilerResultsLog: Total build time: 11.22 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.05.31-05.29.41:165][ 33]LogMainFrame: MainFrame: Module compiling took 11.886 seconds
+[2018.05.31-05.29.41:201][ 33]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2455 classes and 562 folders.
+[2018.05.31-05.29.41:201][ 33]Display: HotReload took 11.9s.
+[2018.05.31-05.29.44:689][103]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.31-05.29.44:876][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.29.44:929][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.31-05.29.45:093][103]PIE: New page: PIE session: Minimal_Default (May 31, 2018, 9:29:45 PM)
+[2018.05.31-05.29.45:121][103]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.05.31-05.29.45:302][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180533s)
+[2018.05.31-05.29.45:306][103]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.05.31-05.29.45:329][103]LogPlayLevel: PIE: World Init took: (0.026579s)
+[2018.05.31-05.29.45:329][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.207844s)
+[2018.05.31-05.29.45:545][103]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.31-05.29.45:668][103]LogInit: FAudioDevice initialized.
+[2018.05.31-05.29.45:942][103]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/HowTo_PlayerInput.HowTo_PlayerInputGameMode'
+[2018.05.31-05.29.45:943][103]LogLoad: Game class is 'GameModeBase'
+[2018.05.31-05.29.46:254][103]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.05.31-13.29.46
+[2018.05.31-05.29.46:429][103]LogWorld: Bringing up level for play took: 0.176444
+[2018.05.31-05.29.46:749][103]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2018.05.31-05.29.46:752][103]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 2.292
+[2018.05.31-05.29.46:779][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.29.57:120][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.29.57:435][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.30.04:879][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.30.05:039][770]Candidate modules for hot reload:
+[2018.05.31-05.30.05:039][770]  HowTo_PlayerInput
+[2018.05.31-05.30.05:040][770]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe HowTo_PlayerInput -ModuleWithSuffix=HowTo_PlayerInput,265 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/HowTo_PlayerInput.uproject" ]
+[2018.05.31-05.30.05:048][770]Warning: Starting HotReload took  0.0s.
+[2018.05.31-05.30.23:036][877]CompilerResultsLog: New page: Compilation - May 31, 2018, 9:30:23 PM
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: Parsing headers for HowTo_PlayerInputEditor
+[2018.05.31-05.30.23:037][877]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\HowTo_PlayerInput.uproject" "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\HowTo_PlayerInputEditor\Development\HowTo_PlayerInputEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: Reflection code generated for HowTo_PlayerInputEditor in 13.0108213 seconds
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: MyPawn.gen.cpp
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: MyPawn.cpp
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: [3/4] Link UE4Editor-HowTo_PlayerInput-265.dll
+[2018.05.31-05.30.23:037][877]CompilerResultsLog: [4/4] Link UE4Editor-HowTo_PlayerInput-265.lib
+[2018.05.31-05.30.23:038][877]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-265.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-265.exp
+[2018.05.31-05.30.23:038][877]CompilerResultsLog:    Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-265.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_PlayerInput-265.suppressed.exp
+[2018.05.31-05.30.23:038][877]CompilerResultsLog: Total build time: 17.46 seconds (Local executor: 2.34 seconds)
+[2018.05.31-05.30.23:038][877]LogMainFrame: MainFrame: Module compiling took 18.002 seconds
+[2018.05.31-05.30.23:091][877]LogContentBrowser: Native class hierarchy updated for 'HowTo_PlayerInput' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2018.05.31-05.30.23:093][877]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.05.31-05.30.23:167][877]LogContentBrowser: Native class hierarchy populated in 0.0261 seconds. Added 2455 classes and 562 folders.
+[2018.05.31-05.30.23:168][877]Display: HotReload took 18.1s.
+[2018.05.31-05.30.26:678][961]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.31-05.30.26:690][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.30.26:690][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.31-05.30.26:690][961]PIE: New page: PIE session: Minimal_Default (May 31, 2018, 9:30:26 PM)
+[2018.05.31-05.30.26:691][961]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.05.31-05.30.26:696][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005596s)
+[2018.05.31-05.30.26:697][961]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.05.31-05.30.26:697][961]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2018.05.31-05.30.26:697][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006893s)
+[2018.05.31-05.30.26:717][961]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.31-05.30.26:749][961]LogInit: FAudioDevice initialized.
+[2018.05.31-05.30.26:899][961]LogLoad: Game class is 'GameModeBase'
+[2018.05.31-05.30.26:924][961]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.05.31-13.30.26
+[2018.05.31-05.30.26:924][961]LogWorld: Bringing up level for play took: 0.001181
+[2018.05.31-05.30.26:925][961]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.466
+[2018.05.31-05.30.26:926][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.30.36:423][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.30.36:455][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.05.31-05.38.56:383][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.38.56:511][178]Candidate modules for hot reload:
+[2018.05.31-05.38.56:511][178]  HowTo_PlayerInput
+[2018.05.31-05.38.56:511][178]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe HowTo_PlayerInput -ModuleWithSuffix=HowTo_PlayerInput,5959 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/HowTo_PlayerInput.uproject" ]
+[2018.05.31-05.38.56:519][178]Warning: Starting HotReload took  0.0s.
+[2018.05.31-05.39.17:451][333]CompilerResultsLog: New page: Compilation - May 31, 2018, 9:39:17 PM
+[2018.05.31-05.39.17:881][333]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.05.31-05.39.17:881][333]CompilerResultsLog: Compiling game modules for hot reload
+[2018.05.31-05.39.17:881][333]CompilerResultsLog: Parsing headers for HowTo_PlayerInputEditor
+[2018.05.31-05.39.17:881][333]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\HowTo_PlayerInput.uproject" "C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Intermediate\Build\Win64\HowTo_PlayerInputEditor\Development\HowTo_PlayerInputEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.05.31-05.39.17:881][333]CompilerResultsLog: Reflection code generated for HowTo_PlayerInputEditor in 12.5500031 seconds
+[2018.05.31-05.39.17:881][333]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2018.05.31-05.39.17:881][333]CompilerResultsLog: MyPawn.gen.cpp
+[2018.05.31-05.39.17:881][333]CompilerResultsLog: MyPawn.cpp
+[2018.05.31-05.39.17:882][333]CompilerResultsLog: Error: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Source\HowTo_PlayerInput\MyPawn.cpp(62) : error C2146: syntax error: missing ';' before identifier 'FVector'
+[2018.05.31-05.39.17:882][333]CompilerResultsLog: Error: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Source\HowTo_PlayerInput\MyPawn.cpp(69) : error C2065: 'CurrentSpeed': undeclared identifier
+[2018.05.31-05.39.17:882][333]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Binaries\Win64\UE4Editor-HowTo_PlayerInput-5959.dll
+[2018.05.31-05.39.17:882][333]CompilerResultsLog: Total build time: 19.62 seconds (Local executor: 0.00 seconds)
+[2018.05.31-05.39.17:882][333]LogMainFrame: MainFrame: Module compiling took 21.374 seconds
+[2018.05.31-05.39.17:882][333]Warning: HotReload failed, recompile failed
+[2018.05.31-05.39.35:543][959]LogSlate: Window 'Message Log' being destroyed
+[2018.05.31-05.39.35:548][959]LogSlate: Window 'Message Log' being destroyed
+[2018.05.31-05.39.41:511][ 39]Candidate modules for hot reload:
+[2018.05.31-05.39.41:511][ 39]  HowTo_PlayerInput
+[2018.05.31-05.39.41:511][ 39]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe HowTo_PlayerInput -ModuleWithSuffix=HowTo_PlayerInput,4499 Win64 Development -editorrecompile -canskiplink "C:/Users/User/Documents/GitHub Files/UE4 Crash Course/HowTo_PlayerInput/HowTo_PlayerInput.uproject" ]
+[2018.05.31-05.39.41:563][ 39]Warning: Starting HotReload took  0.1s.
+[2018.05.31-05.39.41:752][ 47]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+ with error E_INVALIDARG
+[2018.05.31-05.39.41:786][ 47]LogWindows: Windows GetLastError: The operation completed successfully. (0)

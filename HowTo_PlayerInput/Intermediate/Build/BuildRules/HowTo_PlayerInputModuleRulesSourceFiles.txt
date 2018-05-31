@@ -1,0 +1,3 @@
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Source\HowTo_PlayerInput\HowTo_PlayerInput.Build.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Source\HowTo_PlayerInput.Target.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_PlayerInput\Source\HowTo_PlayerInputEditor.Target.cs
