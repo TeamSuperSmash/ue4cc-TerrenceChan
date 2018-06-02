@@ -1,0 +1,3 @@
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Source\HowTo_VTE\HowTo_VTE.Build.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Source\HowTo_VTE.Target.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Source\HowTo_VTEEditor.Target.cs

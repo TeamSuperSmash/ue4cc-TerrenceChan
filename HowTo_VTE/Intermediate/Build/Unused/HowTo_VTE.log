@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Performing 3 actions (4 in parallel)
+  Door.cpp
+  [2/3] Link UE4Editor-HowTo_VTE-4377.dll
+  [3/3] Link UE4Editor-HowTo_VTE-4377.lib
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_VTE-4377.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_VTE-4377.exp
+     Creating library C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_VTE-4377.suppressed.lib and object C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_VTE-4377.suppressed.exp
+  Deploying HowTo_VTEEditor Win64 Development...
+  Total build time: 3.44 seconds (Local executor: 1.73 seconds)

@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HowTo_VTE-7325.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\Countdown.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\Door.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\HowTo_VTE.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\HowTo_VTEGameModeBase.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\Countdown.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\Door.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\HowTo_VTE.init.gen.cpp.obj"
+"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\HowTo_VTEGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\HowTo_VTE\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_VTE\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HowTo_VTE-7325.lib"
