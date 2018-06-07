@@ -1,0 +1,3 @@
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_Components\Source\HowTo_Components\HowTo_Components.Build.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_Components\Source\HowTo_Components.Target.cs
+C:\Users\User\Documents\GitHub Files\UE4 Crash Course\HowTo_Components\Source\HowTo_ComponentsEditor.Target.cs
