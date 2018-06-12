@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HowTo_UMG.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{63DBBBE8-48D2-4CAF-A7AD-07A103ECAA09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HowTo_UMG.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HowTo_UMGEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A366A1F9-CAC9-4DA3-BB0D-753488F97B50}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HowTo_UMG">
+      <UniqueIdentifier>{EB4FAB4D-E9CA-4EAD-837C-BECE87364892}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HowTo_UMG\HowTo_UMG.Build.cs">
+      <Filter>Source\HowTo_UMG</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HowTo_UMG\HowTo_UMG.cpp">
+      <Filter>Source\HowTo_UMG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HowTo_UMG\HowTo_UMG.h">
+      <Filter>Source\HowTo_UMG</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HowTo_UMG\HowTo_UMGGameModeBase.cpp">
+      <Filter>Source\HowTo_UMG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HowTo_UMG\HowTo_UMGGameModeBase.h">
+      <Filter>Source\HowTo_UMG</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\HowTo_UMG\HowTo_UMGPlayerController.h">
+      <Filter>Source\HowTo_UMG</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\HowTo_UMG\HowTo_UMGPlayerController.cpp">
+      <Filter>Source\HowTo_UMG</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
